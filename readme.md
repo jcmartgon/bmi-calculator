@@ -3,6 +3,8 @@
 
 Simple Body-Mass Index (BMI) calculator using customtkinter.
 
+App was made following [this](https://www.youtube.com/watch?v=mop6g-c5HEY&ab_channel=ClearCode) tutorial made by youtuber Clear Code.
+
 ### Features
 
 - Select height and weight
